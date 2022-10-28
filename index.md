@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Page
 
 Welcome to my site, Its a bit bare at the moment but I will be adding to it in the coming weeks.
-Ive been working on some really exciting opensource projects recently and I can wait to start sharing the results
+Ive been working on some really exciting opensource projects recently and I can wait to start sharing the results. You can see demos of the projects on my instagram i post there the most. https://www.instagram.com/lxl.anthony.lxl/
 
 
 ### Beatspeak
@@ -14,6 +14,15 @@ be converted to C++ and possible use LLVM.
 ### Ulchabean
 An end to end c++ framework for a drone with path finding and environment awareness built in.
 
+### Rogue-like
+A rogue-like rust game written in rust https://www.instagram.com/p/ChOOKRul-kn/ and compiled to webassembly to run on a browser https://www.instagram.com/p/Ch4b2sIuB8d/
+
+### Geailge NMT
+A Neural Machine Translation model that compares 3 million Irish to Gaeilge sentence pairs to create a translation model comparable to Google performance for Geailge.
+
+### YAM Yet Another Messanger
+A messenger written in C, C++ and flutter designed to be secure in all situations with a particular focus at working on a phone potentially infected with spywware
+
 ## Contact
 
-The best place to reach me is via email shane.hamilton@protonmail.com
+The best place to reach me is via email shane.hamilton@hamilton3.141@gmail.com
