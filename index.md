@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Page
 
 Welcome to my site, Its a bit bare at the moment but I will be adding to it in the coming weeks.
-Ive been working on some really exciting opensource projects recently and I can wait to start sharing the results. You can see demos of the projects on my instagram i post there the most.  [My instagram](https://link-url-here.org](https://www.instagram.com/lxl.anthony.lxl/)
+Ive been working on some really exciting opensource projects recently and I can wait to start sharing the results. You can see demos of the projects on my instagram i post there the most.  [My instagram](https://www.instagram.com/lxl.anthony.lxl/)
 
 
 ### Beatspeak
